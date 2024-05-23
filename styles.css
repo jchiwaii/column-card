@@ -18,7 +18,7 @@
 }
 
 body {
-  background-color: var(--transparent-white);
+  background-color: var(--very-light-gray);
 }
 
 main {
@@ -30,8 +30,8 @@ main {
 }
 
 div {
-  width: 17%;
-  padding: 40px 42px 55px 40px;
+  width: 19%;
+  padding: 60px 42px 55px 40px;
 }
 
 .sedan {
@@ -61,7 +61,7 @@ div {
 em {
   font-family: "Big Shoulders Display", sans-serif;
   color: var(--very-light-gray);
-  font-size: 2rem;
+  font-size: 2.5rem;
   text-transform: uppercase;
   font-style: normal;
   font-weight: 700;
@@ -73,9 +73,9 @@ p {
   font-family: "Lexend Deca", sans-serif;
   color: var(--transparent-white);
   font-weight: 400;
-  font-size: 0.8rem;
+  font-size: 0.9375rem;
   line-height: 24px;
-  padding-bottom: 70px;
+  padding-bottom: 90px;
 }
 
 a {
